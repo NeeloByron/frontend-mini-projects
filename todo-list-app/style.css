@@ -51,7 +51,7 @@ h1 {
   padding: 10px 20px;
   background: #4f46e5;
   color: white;
-  border: black;
+  border: none;
   border-radius: 8px;
   font-size: 14px;
   cursor: pointer;
